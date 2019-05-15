@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
             textView.text = "こんにちは"
 
         }else {
-            textView.text = "こんばん"
+            textView.text = "こんばんは"
         }
     }
 }
